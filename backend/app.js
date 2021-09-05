@@ -17,7 +17,7 @@ app.use(fileUpload());
 
 
 const errormiddleware = require('./middlewares/error')
-dotenv.config({path: 'backend/config/config.env'})
+// dotenv.config({path: 'backend/config/config.env'})
 // import all the  routes
 const products = require('./routes/product')
 const auth = require('./routes/auth')
