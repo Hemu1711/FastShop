@@ -1,4 +1,4 @@
-# ShopIT E-commerce Project
+# Fast Shop
 
 > Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB
 
